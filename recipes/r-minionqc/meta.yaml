@@ -23,6 +23,7 @@ requirements:
     - r-scales 
     - r-viridis
     - r-yaml
+    - r-xml
 
   run:
     - r-base
